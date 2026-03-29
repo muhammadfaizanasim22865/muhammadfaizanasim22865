@@ -41,10 +41,6 @@ I started with Python fundamentals and have been progressively working through D
 | 🐍 [python-projects](https://github.com/muhammadfaizanasim22865/python-projects) | Collection of Python projects — simulations, translators, assistants and more |
 | 🖥️ [tkinter-desktop-apps](https://github.com/muhammadfaizanasim22865/tkinter-desktop-apps) | Desktop GUI apps built with Python and Tkinter |
 
-## 📊 GitHub Stats
-
-![Faizan's GitHub Metrics](./github-metrics.svg)
-
 ---
 
 ## 🤝 Connect With Me
