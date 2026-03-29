@@ -43,8 +43,7 @@ I started with Python fundamentals and have been progressively working through D
 
 ## 📊 GitHub Stats
 
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadfaizanasim22865&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfaizanasim22865&layout=compact&theme=tokyonight&hide_border=true)
+![Faizan's GitHub Metrics](./github-metrics.svg)
 
 ---
 
