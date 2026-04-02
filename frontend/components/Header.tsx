@@ -8,15 +8,15 @@ export default function Header() {
           </span>
           <div>
             <h1 className="text-lg font-bold text-white leading-tight">
-              DSA Mistake Analyzer
+              Python DSA Code Analyzer
             </h1>
             <p className="text-xs text-gray-400">
-              Rule-based Python code analysis · No AI · Pure AST
+              Rule-based AST analysis · Runs in your browser · No server needed
             </p>
           </div>
         </div>
         <span className="hidden sm:inline-block rounded-full bg-indigo-900/60 px-3 py-1 text-xs font-medium text-indigo-300 border border-indigo-700">
-          v1.0.0
+          v2.0.0
         </span>
       </div>
     </header>

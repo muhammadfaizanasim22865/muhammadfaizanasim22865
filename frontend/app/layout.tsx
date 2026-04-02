@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "DSA Mistake Analyzer",
+  title: "Python DSA Code Analyzer",
   description:
-    "Analyze Python DSA solutions for complexity, patterns, and mistakes using rule-based AST parsing — no AI required.",
+    "Analyze Python DSA solutions for complexity, patterns, and mistakes using rule-based AST parsing — runs entirely in your browser via Pyodide, no server required.",
 };
 
 export default function RootLayout({
