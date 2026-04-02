@@ -23,7 +23,7 @@ export default function Home() {
         setResult(data);
       }
     } catch {
-      setError("Could not connect to the analysis server. Make sure the backend is running.");
+      setError("Analysis failed. Please check your code and try again.");
     } finally {
       setLoading(false);
     }
@@ -37,16 +37,17 @@ export default function Home() {
         {/* Description */}
         <div className="mb-8">
           <h2 className="text-2xl font-bold text-white mb-2">
-            Analyze Your DSA Solution
+            Analyze Your Python DSA Solution
           </h2>
           <p className="text-gray-400 text-sm leading-relaxed max-w-2xl">
             Paste your Python DSA code below and click{" "}
             <span className="text-indigo-400 font-medium">Analyze Code</span>.
-            The engine uses Python&apos;s{" "}
+            The engine runs Python&apos;s{" "}
             <code className="rounded bg-gray-800 px-1.5 py-0.5 text-xs font-mono text-indigo-300">
               ast
             </code>{" "}
-            module to detect complexity, patterns, and common mistakes — no AI, no API keys.
+            module <span className="text-indigo-300 font-medium">directly in your browser</span> via Pyodide —
+            no server, no AI, no API keys.
           </p>
         </div>
 
@@ -79,7 +80,7 @@ export default function Home() {
       </main>
 
       <footer className="border-t border-gray-800 py-4 text-center text-xs text-gray-600">
-        DSA Mistake Analyzer · Rule-based AST analysis · No AI or API keys required
+        Python DSA Code Analyzer · Rule-based AST analysis in-browser via Pyodide · No server required
       </footer>
     </div>
   );
