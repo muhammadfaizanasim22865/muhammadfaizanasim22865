@@ -30,7 +30,7 @@ I started with Python fundamentals and have been progressively working through D
 - ⚡ **Automation Workflows** — No-code/low-code automation pipelines using Make.com
 - 📐 **Mathematics for ML** — Linear algebra, calculus, probability — the real foundations of AI
 - 📊 **Data Analysis** — Learning to work with data as a stepping stone toward ML
-- 🧩 **DSA** — Almost complete — solving problems and understanding algorithms deeply
+- 🧩 **DSA** — Solving problems and understanding algorithms deeply
 
 ---
 
